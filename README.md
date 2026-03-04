@@ -115,7 +115,7 @@ Edit the `CONFIGURATION` block at the top of each script, run it, then rebuild.
 ---
 
 ## Notes
-
+- Thx @ColorBlueTelegram from telegram for the un-protected windows exe and files
 - The tool requires iTunes for USB device enumeration via `iOSDeviceManager`
 - SSH credentials are hardcoded to `root` / `alpine` (standard jailbreak defaults)
 - The `Backup/swp/` directory is populated at runtime during MDM operations
