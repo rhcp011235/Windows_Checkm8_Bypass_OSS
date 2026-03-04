@@ -1,0 +1,31 @@
+costura.bunifu.licensing.dll.compressed|4.0.0.0|Bunifu.Licensing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b|Bunifu.Licensing.dll|AB93BB6563CFA977D405281C3BE755862F489A46|1012736
+costura.bunifu.ui.winforms.dll.compressed|0.0.0.0|Bunifu.UI.WinForms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Bunifu.UI.WinForms.dll|50D3CA73E48A1CA5104BA5F45587E8F36257B963|1784832
+costura.costura.dll.compressed|6.0.0.0|Costura, Version=6.0.0.0, Culture=neutral, PublicKeyToken=9919ef960d84173d|Costura.dll|028E9832F421F11F9497C610F1734E0F3D868037|5120
+costura.costura.pdb.compressed|||Costura.pdb|806F4C19B2D7FD9E3B836269EC07647019A29E95|7960
+costura.downloader.dll.compressed|3.1.2.0|Downloader, Version=3.1.2.0, Culture=neutral, PublicKeyToken=844973e732f6cdf4|Downloader.dll|B68C2F896947F21EBCDEBA9805E9F54C88744C31|120832
+costura.endianbitconverter.dll.compressed|1.1.0.0|EndianBitConverter, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null|EndianBitConverter.dll|84E942031806AD57625CA77188A011B436496725|7680
+costura.guna.ui2.dll.compressed|2.0.4.7|Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261|Guna.UI2.dll|55568EECC97895CAD49A42BFFE757E3588C5313C|2190720
+costura.ionic.zip.dll.compressed|1.9.1.8|Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c|Ionic.Zip.dll|8A1140CEBC39F6994EEF7E8DE4627FB7B72A2DD9|462336
+costura.jsonfx.dll.compressed|2.0.1209.2802|JsonFx, Version=2.0.1209.2802, Culture=neutral, PublicKeyToken=315052dd637f8a52|JsonFx.dll|0C74F5F2A8FA49BD50D5A59C5E22EE9259EAF7A0|219136
+costura.libusbdotnet.libusbdotnet.dll.compressed|2.2.0.0|LibUsbDotNet.LibUsbDotNet, Version=2.2.0.0, Culture=neutral, PublicKeyToken=c677239abe1e02a9|LibUsbDotNet.LibUsbDotNet.dll|E26B538A3AE8B0A231011D5C9B7FC26291B346EF|156672
+costura.libusbdotnet.libusbdotnet.pdb.compressed|||LibUsbDotNet.LibUsbDotNet.pdb|C139CE00AA41A42EE15F6C85A9D7D2F7E0D7ADAC|61852
+costura.metroframework.design.dll.compressed|1.4.0.0|MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a|MetroFramework.Design.dll|7BE378E382E43EAE84F1567B3570BCA9A67E7697|16896
+costura.metroframework.fonts.dll.compressed|1.4.0.0|MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a|MetroFramework.Fonts.dll|CC72536B84384EC8479B9734B947DCE885EF5D31|672256
+costura.metroframework.dll.compressed|1.4.0.0|MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a|MetroFramework.dll|D0AA8038A92EB43DEF2FFFBBF4114B02636117C5|353280
+costura.microsoft.bcl.asyncinterfaces.dll.compressed|8.0.0.0|Microsoft.Bcl.AsyncInterfaces, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|Microsoft.Bcl.AsyncInterfaces.dll|74DC07A8CCCEE0CA3BF5CF64320230CA1A37AD85|26904
+costura.microsoft.toolkit.uwp.notifications.dll.compressed|7.1.0.0|Microsoft.Toolkit.Uwp.Notifications, Version=7.1.0.0, Culture=neutral, PublicKeyToken=4aff67a105548ee2|Microsoft.Toolkit.Uwp.Notifications.dll|4F074C676E8A93EA4E618DB0E2AF4D5D2463AC17|162448
+costura.microsoft.toolkit.uwp.notifications.pdb.compressed|||Microsoft.Toolkit.Uwp.Notifications.pdb|699A225706388F61A751B952362673471D6EA0AB|70028
+costura.newtonsoft.json.dll.compressed|13.0.0.0|Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed|Newtonsoft.Json.dll|1E76E6099570EDE620B76ED47CF8D03A936D49F8|711952
+costura.plist-cil.dll.compressed|2.2.0.0|plist-cil, Version=2.2.0.0, Culture=neutral, PublicKeyToken=ec2cb9e1a719933d|plist-cil.dll|5D8393731178C32E60EBA75C1ECB1FDE96D273CE|58368
+costura.plist-cil.pdb.compressed|||plist-cil.pdb|9210B7F64D141AD8650C0152B5D303D83CD782A2|31424
+costura.plistnet.dll.compressed|3.2.0.0|PListNet, Version=3.2.0.0, Culture=neutral, PublicKeyToken=null|PListNet.dll|B7AE75CF3C06B54DE13FD80E84351411B75ADE4E|27136
+costura.siticone.desktop.ui.dll.compressed|2.1.1.0|Siticone.Desktop.UI, Version=2.1.1.0, Culture=neutral, PublicKeyToken=9683591576b7f0b4|Siticone.Desktop.UI.dll|763506F312A186C55A04EF6A16AD7E867C394097|4198272
+costura.system.buffers.dll.compressed|4.0.3.0|System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Buffers.dll|2F410A0396BC148ED533AD49B6415FB58DD4D641|20856
+costura.system.codedom.dll.compressed|9.0.0.2|System.CodeDom, Version=9.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.CodeDom.dll|70A5D4D4B605668B4FBE3183BB68D187A9106ACC|30496
+costura.system.diagnostics.diagnosticsource.dll.compressed|8.0.0.1|System.Diagnostics.DiagnosticSource, Version=8.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|708B2DEDA0B959C72D4B18F64E477BACD979BBE1|189104
+costura.system.memory.dll.compressed|4.0.1.2|System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Memory.dll|3C5C5DF5F8F8DB3F0A35C5ED8D357313A54E3CDE|142240
+costura.system.numerics.vectors.dll.compressed|4.1.4.0|System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Numerics.Vectors.dll|3D216458740AD5CB05BC5F7C3491CDE44A1E5DF0|115856
+costura.system.runtime.compilerservices.unsafe.dll.compressed|6.0.0.0|System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Runtime.CompilerServices.Unsafe.dll|180A7BAAFBC820A838BBACA434032D9D33CCEEBE|18024
+costura.system.threading.tasks.extensions.dll.compressed|4.2.0.1|System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Threading.Tasks.Extensions.dll|2242627282F9E07E37B274EA36FAC2D3CD9C9110|25984
+costura.system.valuetuple.dll.compressed|4.0.3.0|System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.ValueTuple.dll|D1664731719E85AAD7A2273685D77FEB0204EC98|25232
+costura.tinyhome.renci.sshnet.dll.compressed|2021.0.1.0|TinyHome.Renci.SshNet, Version=2021.0.1.0, Culture=neutral, PublicKeyToken=1cee9f8bde3db106|TinyHome.Renci.SshNet.dll|FE279F27CBEDC614EDB84DBE575129D364496EB8|859648

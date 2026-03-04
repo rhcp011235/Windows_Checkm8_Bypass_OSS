@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<dict>
+		<key>com.apple.AppPredictionWidget.extension</key>
+		<dict>
+			<key>election</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.apple.AppSSOKerberos.KerberosExtension</key>
+		<dict>
+			<key>election</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.apple.ScreenTimeUI.ScreenTimeWidget</key>
+		<dict>
+			<key>election</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.apple.UpNextWidget.extension</key>
+		<dict>
+			<key>election</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.apple.VoiceMemos.SpotlightIndexExtension</key>
+		<dict>
+			<key>election</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.apple.contacts.ContactsCoreSpotlightExtension</key>
+		<dict>
+			<key>election</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.apple.podcasts.PodcastsNotificationExtension</key>
+		<dict>
+			<key>election</key>
+			<integer>1</integer>
+		</dict>
+		<key>com.apple.podcasts.SpotlightIndexExtension</key>
+		<dict>
+			<key>election</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>version</key>
+	<integer>16</integer>
+</dict>
+</plist>
