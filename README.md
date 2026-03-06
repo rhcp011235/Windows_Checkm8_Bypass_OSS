@@ -9,17 +9,12 @@ A Windows tool for bypassing iCloud activation on jailbroken iOS devices. Connec
 - Windows 10 or 11 (64-bit recommended)
 - iTunes installed (required for USB device detection)
 - Target device must be **jailbroken** with SSH enabled (root / alpine)
-- Find My iPhone (FMI) must be **disabled**
 
 ---
 
-## Supported Devices
+## Supported Devices - A5 - A11
 
-**iPhones:** 5S through 16 series (including SE 1/2/3, X, XS, XR, XS Max)
-
-**iPads:** iPad 2–10, iPad Air 1–5 (M2), iPad Mini 1–6, iPad Pro 9.7" through 13" (M4)
-
-**iPod Touch:** 4th through 7th generation
+**iPhones:** iPhone 4s to iPhoneX
 
 ---
 
